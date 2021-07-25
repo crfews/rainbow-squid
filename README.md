@@ -1,4 +1,4 @@
 # rainbow-squid
-This code creates an image file with a rainbow squid in it.
+This code creates a rainbow squid image by putting a squid shaped mask on a pride flag.
 # Image Credit
 Original squid image was taken from Pixabay.
