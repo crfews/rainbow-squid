@@ -24,7 +24,7 @@ rainbow = cv.cvtColor(rainbow, cv.COLOR_BGR2RGB)
 jpg = np.flip(img, axis=2)
 
 
-red, green, blue = jpg[:, :, 0], jpg[:, :, 1], jpg[:, :, 2] #changes here
+red, green, blue = jpg[:, :, 0], jpg[:, :, 1], jpg[:, :, 2]
 
 fig, ax = plt.subplots(1,2, figsize = (10, 10))
 # r = ax[0].imshow(red, cmap='winter')
